@@ -12,7 +12,7 @@ public class ClickPracticeFrame extends JFrame {
 
 	public ClickPracticeFrame() {
 		// title 설정 (학번 이름 - 클래스 이름)
-		super("1914337 - 이서진 - MouseDraggingFrame");
+		super("MouseDraggingFrame");
 		// Container 생성 = getContentPane();
 		Container c= getContentPane();
 		// container layout null 설정 --> C를 어디든 붙이기 위해서
